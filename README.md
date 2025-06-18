@@ -163,4 +163,4 @@ Created by izziVanSatoru — For fun, experiments, and learning!
 
 ## ⚠️ Disclaimer
 
-This game is for **educational purposes** only. Do not rage quit. Do not underestimate the AI.
+This game is for **educational purposes** only. Do not rage quit. Do not underestimate the AI but Leaderboard is dummy not responsive when player win game nothing update 
