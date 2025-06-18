@@ -1,0 +1,34 @@
+# ⚙️ Node & Build Outputs
+node_modules/
+dist/
+build/
+dist-ssr/
+
+# ⚠️ Local Environment Files
+.env
+.env.local
+.env.*.local
+*.local
+
+# 📝 Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 🧠 IDE & Editor Files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 🚀 Vercel
+.vercel/
